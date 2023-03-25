@@ -1,5 +1,5 @@
 .menu {
-  padding: 100px 80px 120px;
+  padding: 100px 80px 100px;
   background-color: #fff;
   background-image: url(../images/background_menu.svg);
   background-repeat: no-repeat;
@@ -10,23 +10,19 @@
 
 
 .menu__title {
-  display: flex;
-  justify-content: center;
   max-width: 780px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  box-sizing: border-box;
   margin: 0 auto;
+  text-align: center;
 }
 
 
 
 .menu__subtitle {
-  display: flex;
-  justify-content: center;
   max-width: 780px;
   font-family: "Noto Serif", 'Times New Roman', serif;
   font-style: normal;
@@ -35,7 +31,6 @@
   line-height: 30px;
   margin: 24px auto 0 auto;
   text-align: center;
-  box-sizing: border-box;
 }
 
 

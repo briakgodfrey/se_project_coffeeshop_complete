@@ -38,7 +38,6 @@
   font-size: 20px;
   line-height: 30px;
   color: #838383;
-  margin-bottom: 32px;
 }
 
 .form__button {
@@ -69,3 +68,4 @@
   width: 20px;
   height: 20px;
 }
+.card__list-item:last-of-type
